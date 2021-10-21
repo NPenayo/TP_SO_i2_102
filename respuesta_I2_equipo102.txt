@@ -1,0 +1,2 @@
+a - Dentro del mi repositorio Forkeado, hago click en Fetch Upstream/ Fetch and Merge
+b - No, porque al forkear obtengo una copia del repositorio original
