@@ -1,0 +1,10 @@
+e. - Fork desde la interfaz de github
+- Fetch upstream desde la interfaz de github
+- git clone
+- git add .
+- git commit
+- git pull
+- git push
+- PUll request desde la interfaz de github
+
+Córdoba Pablo, Nicolás Penayo, Facundo Palmieri
