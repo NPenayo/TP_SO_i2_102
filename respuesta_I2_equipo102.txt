@@ -1,2 +1,14 @@
 a - Dentro del mi repositorio Forkeado, hago click en Fetch Upstream/ Fetch and Merge
 b - No, porque al forkear obtengo una copia del repositorio original
+C- No,por que GAMMA Y ALFA no se ven por que esta forkeados al repositorio de BETTA
+D- No, si se genera un conflicto se soluciona manualmente
+e. - Fork desde la interfaz de github
+- Fetch upstream desde la interfaz de github
+- git clone
+- git add .
+- git commit
+- git pull
+- git push
+- PUll request desde la interfaz de github
+
+Córdoba Pablo, Nicolás Penayo, Facundo Palmieri
